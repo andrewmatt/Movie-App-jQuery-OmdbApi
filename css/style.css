@@ -1,0 +1,102 @@
+body {
+    height: 100%;
+    font-family: 'Berlin Sans FB Demi', 'Helvetica';
+}
+
+#movies img, #movie img{
+    width: 100%;
+    height: 450px;
+
+}
+
+@media(min-width:650px){
+    #movies .col-md-3 .movieBox{
+        height: 400px;
+        
+    }
+
+    #movies .col-md-3 img{
+        height: 250px;
+    }
+}
+
+@media(max-width:650px){
+    #movies .col-md-3 .movieBox{
+        height: 200px;
+        
+    }
+
+    #movies .col-md-3 img{
+        height: 100px;
+    }
+}
+
+@media(max-width:1000px){
+    #movies .col-md-3 .movieBox{
+        height: 400px;
+        
+    }
+
+    #movies .col-md-3 img{
+        height: 250px;
+    }
+}
+
+@media(min-width:1000px){
+    #movies .col-md-3 .movieBox{
+        height: 450px;
+        
+    }
+
+    #movies .col-md-3 img{
+        height: 375px;
+    }
+}
+
+.movieBox{
+    border: solid;
+    border-color: gray;
+    border-width: 2px;
+}
+
+.navbar {
+    background-color: rgb(94, 100, 96);
+}
+.navbar-brand{
+    color: rgb(233, 233, 233);
+}
+
+.navbar-header a:hover {
+    color: rgb(233, 233, 233);
+    border-color: black;
+}
+
+.text-center{
+    margin-bottom: 5%;
+}
+.text-left{
+    margin-left: 13%;
+    margin-bottom: 2%;
+    
+}
+
+.jumbotron {
+    background-color:black;
+}
+
+.movieTitle {
+  font-size: 20px;
+  text-align: center;
+}
+
+.movieDiv{
+    margin-top: 2%;
+    font-size: 20px;
+}
+
+.thumbnail {
+    border: solid;
+    border-color: gray;
+    border-width: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
