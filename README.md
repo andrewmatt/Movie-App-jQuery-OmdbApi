@@ -9,6 +9,6 @@ been added.
 It uses Bootstrap for Styles & jQuery using OMDBApi to get a list of movies from the IMDB site.
 
 
-![alt text](https://imgur.com/a/pjQfqHD)
+![alt text](https://i.imgur.com/pjQfqHD.png)
 
-![alt text](https://imgur.com/a/80DxJ9Z)
+![alt text](https://i.imgur.com/P0ePdBm.png)
