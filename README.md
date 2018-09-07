@@ -1,4 +1,4 @@
-# Movie-Search-App-jQuery-OmdbApi
+# Movie/TV Show Search App
 A simple app to search movies using jQuery and OMDBApi.
 
 ---------------------------------------------------------
@@ -8,3 +8,7 @@ been added.
 
 It uses Bootstrap for Styles & jQuery using OMDBApi to get a list of movies from the IMDB site.
 
+
+![alt text](https://imgur.com/a/pjQfqHD)
+
+![alt text](https://imgur.com/a/80DxJ9Z)
