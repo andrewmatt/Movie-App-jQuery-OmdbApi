@@ -1,4 +1,4 @@
-# Movie/TV Show Search App
+# Movie/TV Show App
 A simple app to search movies using jQuery and OMDBApi.
 
 ---------------------------------------------------------
